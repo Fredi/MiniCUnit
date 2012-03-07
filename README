@@ -1,0 +1,9 @@
+MiniCUnit
+Mini Biblioteca para desenvolvimento C focado em testes (TDD ou Test-Driven Development)
+
+Util para aulas de Algoritmos e Programação na Faculdade da FTEC
+
+Baseado em:
+
+* http://www.prof.kadu.com.br/dicas/2011/09/realizando-tdd-em-c-simples-e-pratico-minunit
+* http://eradman.com/posts/tdd-in-c.html
