@@ -1,3 +1,7 @@
+/**
+ * MiniCUnit - https://github.com/Fredi/MiniCUnit
+ */
+
 #include "minicunit.h"
 
 int testes_rodados = 0;
